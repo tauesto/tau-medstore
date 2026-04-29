@@ -38,5 +38,5 @@ function openCart() {
   });
 
   document.getElementById("orderBtn").href =
-    "https://wa.me/91XXXXXXXXXX?text=" + encodeURIComponent(message);
+    "https://wa.me/916009601820?text=" + encodeURIComponent(message);
 }
